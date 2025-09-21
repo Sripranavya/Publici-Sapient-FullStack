@@ -1,0 +1,14 @@
+# Core AI and ML libraries
+google-generativeai
+sentence-transformers
+faiss-cpu
+langchain
+
+# Data handling and web scraping
+requests
+beautifulsoup4
+pandas
+tqdm
+
+# Environment variable management
+python-dotenv
